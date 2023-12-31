@@ -363,7 +363,7 @@ button[type="submit"] {
 
     .center-form {
         padding-top: 30px;
-        min-height: 240px
+        min-height: 240px;
         margin: 0 auto;
         max-width:50%;
     }
